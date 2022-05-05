@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there , I'm Osama 👋
 
+🔭 I’m currently working as Flutter Developer 💙 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osam-hasanain&theme=radical)
 <!--
 **osama-hasanain/osama-hasanain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
